@@ -1,8 +1,6 @@
 ### Entidade
 
-Entidades são estruturas que tem identidade e podem mudar seu status.
-
-Teremos duas entidades bases nesse projeto:
+É um objeto que possui uma identidade única. É distinguido de outros objetos com base em um identificador exclusivo (como um ID) e pode mudar seus atributos ao longo do tempo sem alterar sua identidade. Exemplos incluem um cliente, um produto ou um pedido.
 
 ## Pessoa
 
