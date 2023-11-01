@@ -6,7 +6,7 @@ import (
 
 // A estrutura Person representa uma pessoa em todos os dominios do projeto.
 type Person struct {
-	ID uuid.UUID
+	ID    uuid.UUID
 	Email string
-	Name string
+	Name  string
 }
